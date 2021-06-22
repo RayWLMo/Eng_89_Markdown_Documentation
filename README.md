@@ -23,4 +23,5 @@ If you have not set remote branch to main
 - To push changes to GitHub `git push -u origin main`
 - Adding remote to connect localhost with GitHub repo
 - `git remote add origin git@github.com:RayWLMo/Eng_89_Markdown_Documentation.git`
+
 **Setting the branch to -M main and adding the remote is only to be done first time**
