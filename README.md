@@ -1,6 +1,8 @@
 # Single hash is used to create heading 1 H1
 ## Double hashes for heading 2 H2
 ### Triple hashes for heading 3 H3 (up to H6)
+### This is a change made on GitHub online
+
 - Dash (-) sign is used to create a bullet point
 - **To write anything in BOLD** (** **)
 ```python
